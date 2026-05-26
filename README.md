@@ -11,7 +11,7 @@ A high-performance, native Android utility application designed to deliver insta
 
 ---
 
-Built entirely in **Java** and **XML**, **UnConvert Pro** eliminates traditional form-submission latency by computing metrics dynamically as the user types. It optimizes screen real estate on mobile devices by integrating data-rich widgets, including a multi-unit parallel conversion matrix and a rolling session history stack.
+Built entirely in **Java** and **XML**, **UnConvert** eliminates traditional form-submission latency by computing metrics dynamically as the user types. It optimizes screen real estate on mobile devices by integrating data-rich widgets, including a multi-unit parallel conversion matrix and a rolling session history stack.
 
 ## 📱 Features & Core Functionality
 
