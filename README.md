@@ -11,9 +11,24 @@ A high-performance, native Android utility application designed to deliver insta
 
 ---
 
+## 📱 Application Preview
+
+To give you a quick glimpse of the application in action, here is the interface design highlighting the clean Material 3 architecture and data-rich extensions:
+
+<p align="center">
+  <img src="app_preview.png" alt="UnConvert Pro Main Interface" width="320"/>
+</p>
+
+### 🔍 Key Visual Pillars:
+* **The Main Core Card:** A sleek, elevated workspace handling text input observers and custom dropdown menus.
+* **All Unit Equivalents Matrix:** The newly added lower panel that automatically computes your input across every alternative metric simultaneously.
+* **Recent Conversions Terminal:** A rolling runtime stack tracking your session history dynamically.
+
+---
+
 Built entirely in **Java** and **XML**, **UnConvert** eliminates traditional form-submission latency by computing metrics dynamically as the user types. It optimizes screen real estate on mobile devices by integrating data-rich widgets, including a multi-unit parallel conversion matrix and a rolling session history stack.
 
-## 📱 Features & Core Functionality
+## ✨ Features & Core Functionality
 
 * **Instant Real-Time Calculations:** Utilizes dynamic text observers (`TextWatcher`) to trigger computation instantly on numerical inputs—eliminating clunky, manual "Convert" buttons.
 * **Parallel Multi-Unit Matrix:** Dynamically displays parallel conversions across all available unit equivalents simultaneously, giving users a holistic analytical overview in a single glance.
